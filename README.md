@@ -1,4 +1,4 @@
-# MJU-IAAFF
+# MJU-IAACF
 
 ## 명지대학교 산학협력단 (Myongji University Industry And Academia Cooperation Foundation) 연구
 
